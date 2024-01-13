@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer and Data Scientist
 ---------------------------------------
 
+Coding: because yelling 'Eureka!' is way more fun than 'I give up.'
+
 My coding journey began as a teenager in 2018 when mere curiosity led me to successfully undertake interactive Python, Java, JavaScript, PHP, SQL, HTML and CSS courses on SoloLearn. Ever since I have been curious to advance these skills by pursuing deeper understanding of Computer Programming, Data Structures and Algorithms, Data Science, User Centered Design and Web & Mobile Applications Design and Development using frameworks like Django and Node.js. Today, I take a front seat in the realm of real-world problem solving and solution development. In this frontier I have honed my skills further. I have experience developing and maintaining SQL and NoSQL databases, developing data science models, RESTful APIS, mobile apps, web mapping applications and dashboards. With over 5 years in the field, I also have a great understanding of emerging concepts in web services, cloud computing and machine learning.
 
 * 🌍  I'm based in Nairobi
