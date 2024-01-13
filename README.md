@@ -6,13 +6,13 @@ Full Stack Developer and Data Scientist
 
 My coding journey began as a teenager in 2018 when I undertook interactive Python, Java, JavaScript, PHP, SQL, HTML and CSS courses. Ever since I have been curious to advance these skills by pursuing deeper understanding of Data Structures and Algorithms, Data Science, User Centered Design and Web and Mobile Applications Design and Development using frameworks like Django and Node.js. Today, I take a front seat in the realm of real-world problem solving and solution development. In this frontier I have honed my skills further. I have experience developing and maintaining SQL and NoSQL databases, developing data science models, RESTful APIS, mobile apps, web mapping applications and dashboards. With over 5 years in the field, I also have a great understanding of emerging concepts in web services, cloud computing and machine learning.
 
-  🌍  I'm based in Nairobi
-  🖥️  See my portfolio at [Who is Mwenda?](http://mwenda.hexhus.co.ke)
-  ✉️  You can contact me at [jameskmwenda@gmail.com](mailto:jameskmwenda@gmail.com)
-  🧠  I'm learning Machine Learning and Artificial Intelligence
-  🤝  I'm open to collaborating on Data Science projects, web applications and dashboards and cross platform mobile applications
+* 🌍  I'm based in Nairobi
+* 🖥️  See my portfolio at [Who is Mwenda?](http://mwenda.hexhus.co.ke)
+* ✉️  You can contact me at [jameskmwenda@gmail.com](mailto:jameskmwenda@gmail.com)
+* 🧠  I'm learning Machine Learning and Artificial Intelligence
+* 🤝  I'm open to collaborating on Data Science projects, web applications and dashboards and cross platform mobile applications
   
-  ⚡  It would be like having a joke without a punchline if I failed to acknowledge that my undergraduate degree in Geoinformation Technology fueled my interest in programming by introducing a few important     
+* ⚡  It would be like having a joke without a punchline if I failed to acknowledge that my undergraduate degree in Geoinformation Technology fueled my interest in programming by introducing a few important     
        concepts like programming paradigms such as OOP and Functional Programming. In addition it taught me important concepts for Geographic Information Systems, data management and web mapping which have come 
        in handy for my Data Science interest.
 
