@@ -12,7 +12,7 @@ My coding journey began as a teenager in 2018 when I undertook interactive Pytho
 * 🧠  I'm learning Machine Learning and Artificial Intelligence
 * 🤝  I'm open to collaborating on Data Science projects, web applications and dashboards and cross platform mobile applications
   
-* ⚡  It would be like having a joke without a punchline if I failed to acknowledge that my undergraduate degree in Geoinformation Technology fueled my interest in programming by introducing a few important     
+* ⚡  It would be like having a joke without a punchline🤣 if I failed to acknowledge that my undergraduate degree in Geoinformation Technology fueled my interest in programming by introducing a few important
        concepts like programming paradigms such as OOP and Functional Programming. In addition it taught me important concepts for Geographic Information Systems, data management and web mapping which have come 
        in handy for my Data Science interest.
 
