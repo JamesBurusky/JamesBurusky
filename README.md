@@ -6,7 +6,7 @@ Full Stack Developer and Data Scientist
 
 Coding: because yelling 'Eureka!' is way more fun than 'I give up.'😎
 
-My coding journey began as a teenager in 2018 when mere curiosity led me to successfully undertake interactive Python, Java, JavaScript, PHP, SQL, HTML and CSS courses on SoloLearn. Ever since I have been curious to advance these skills by pursuing deeper understanding of Computer Programming, Data Structures and Algorithms, Data Science, User Centered Design and Web & Mobile Applications Development using Django, Node.js, React and Flutter. 
+My coding journey began as a teenager in 2017 when mere curiosity led me to successfully undertake interactive Python, Java, JavaScript, PHP, SQL, HTML and CSS courses on SoloLearn. Ever since I have been curious to advance these skills by pursuing deeper understanding of Computer Programming, Data Structures and Algorithms, Data Science, User Centered Design and Web & Mobile Applications Development using Django, Node.js, React and Flutter. 
 
 Today, I take a front seat in the realm of real-world problem solving and solutions development. In this frontier I have honed my skills further. I have experience developing and maintaining SQL and NoSQL databases, developing data science models, scripting to automate tasks, developing REST APIs, mobile apps, web mapping applications and dashboards. 
 
