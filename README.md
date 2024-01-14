@@ -8,7 +8,7 @@ Coding: because yelling 'Eureka!' is way more fun than 'I give up.'😎
 
 My coding journey began as a teenager in 2018 when mere curiosity led me to successfully undertake interactive Python, Java, JavaScript, PHP, SQL, HTML and CSS courses on SoloLearn. Ever since I have been curious to advance these skills by pursuing deeper understanding of Computer Programming, Data Structures and Algorithms, Data Science, User Centered Design and Web & Mobile Applications Design and Development using frameworks like Django, Node.js, React and Flutter. 
 
-Today, I take a front seat in the realm of real-world problem solving and solutions development. In this frontier I have honed my skills further. I have experience developing and maintaining SQL and NoSQL databases, developing data science models, scripting to automate tasks, developing REST APIS, mobile apps, web mapping applications and dashboards. With over 5 years in the field, I also have a great understanding of emerging concepts in web services, cloud computing and machine learning.
+Today, I take a front seat in the realm of real-world problem solving and solutions development. In this frontier I have honed my skills further. I have experience developing and maintaining SQL and NoSQL databases, developing data science models, scripting to automate tasks, developing REST APIS, mobile apps, web mapping applications and dashboards. I possess a strong understanding of Agile methodologies, particularly Scrum, excelling in driving efficient sprint planning, fostering cross-functional collaboration, and adapting swiftly to evolving project needs. With over 5 years in the field, I also excel in my understanding of emerging concepts in web services, cloud computing and machine learning.
 
 * 🌍  I'm based in Nairobi
 * 🖥️  See my portfolio at [Who is Mwenda?](http://mwenda.hexhus.co.ke)
@@ -16,9 +16,9 @@ Today, I take a front seat in the realm of real-world problem solving and soluti
 * 🧠  I'm learning Machine Learning and Artificial Intelligence
 * 🤝  I'm open to collaborating on Data Science projects, web applications and dashboards and cross platform mobile applications
   
-* ⚡  It would be like having a joke without a punchline🤣 if I failed to acknowledge that my undergraduate degree in Geoinformation Technology fueled my interest in programming by introducing a few important
-       concepts like programming paradigms such as OOP and Functional Programming. In addition it taught me key concepts on Geographic Information Systems, data management and web mapping which have come 
-       in handy to my Data Science interests.
+* ⚡  It would be like having a joke without a punchline🤣 if I failed to acknowledge that my Bachelor's degree in Geoinformation Technology strongly fueled my interest in programming by introducing very 
+       resourceful concepts including programming paradigms such as OOP and Functional Programming. In addition it taught me key concepts on Geographic Information Systems, data management and web mapping which 
+       have come in handy to my Data Science interests.
 
 <a href="https://www.github.com/JamesBurusky" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/JamesBurusky?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
