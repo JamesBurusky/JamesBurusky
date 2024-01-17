@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer and Data Scientist
 ---------------------------------------
 
-Coding: because yelling 'Eureka!' is way more fun than 'I give up.'😎
+Coding: because yelling 'Eureka!!!' is way more fun than 'I give up.'😎
 
 My coding journey began as a teenager in 2017 when mere curiosity led me to successfully undertake interactive Python, Java, JavaScript, PHP, SQL, HTML and CSS courses on SoloLearn. Ever since I have been curious to advance these skills by pursuing deeper understanding of Computer Programming, Data Structures and Algorithms, Data Science, User Centered Design and Web & Mobile Applications Development using Django, Node.js, React and Flutter. 
 
